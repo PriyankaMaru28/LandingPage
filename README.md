@@ -1,13 +1,13 @@
 ### Hello World 👋 I am Priyanka Maru !
 
-<img align="right" width="500px" height="350px" alt="GIF" src="https://images8.alphacoders.com/115/1156488.png" />
-
+## About Me
 <p>
-A Frontend Developer, Web Developer, Full Stack Developer, Software Developer, and Software Engineer 🖥️
   
-  - Completed Master's in Computer Science from Memorial University of Newfoundland, Canada.
+  - 🌟 Frontend Developer, Web Developer, Full Stack Developer, Software Developer, and Software Engineer 🖥️
+  
+  - 📝 Completed Master's in Computer Science from Memorial University of Newfoundland, Canada.
     
-  - Worked as a Systems Engineer / Web developer / Application developer for 4 years at Tata Consultancy Services 
+  - 💻 Worked as a Systems Engineer / Web developer / Application developer for 4 years at Tata Consultancy Services 
 </p>
 
 
