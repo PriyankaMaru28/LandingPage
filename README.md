@@ -3,7 +3,7 @@
 <img align="right" width="500px" height="350px" alt="GIF" src="https://images8.alphacoders.com/115/1156488.png" />
 
 <p>
-A Frontend Developer, Web Developer , Full Stack Developer , Software Developer, and Software Engineer 🖥️
+A Frontend Developer, Web Developer, Full Stack Developer, Software Developer, and Software Engineer 🖥️
   
   - Completed Master's in Computer Science from Memorial University of Newfoundland, Canada.
     
@@ -11,14 +11,24 @@ A Frontend Developer, Web Developer , Full Stack Developer , Software Developer,
 </p>
 
 
-<p>
-Tech Skills- HTML5, CSS3, Javascript, React.js, Redux, Typescript, Express JS, Node.js, Java, Angular JS. 
-</p>
 
+## Technical Skills
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
-<br/>
+## Connect with me
 
 <a href="https://www.linkedin.com/in/priyanka-maru-b6bab7106/">
 <img alt="Priyanka maru" width="22px" color="white" src="https://icons.veryicon.com/png/Internet%20%26%20Web/Simple%201/linkedin.png" />
