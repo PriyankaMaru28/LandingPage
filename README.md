@@ -50,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
 
+
 ###
 
 <div align="center">
@@ -58,6 +59,14 @@
 </div>
 
 ###
+
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PriyankaMaru28)](https://git.io/streak-stats)
+
+</div>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/priyanka-maru/" target="_blank">
