@@ -2,7 +2,8 @@
 
 ###
 
-<h4 align="left">🍃 My name is Priyanka Maru and I'm a Software Developer from Canada.<br>🍁 Developing applications and resolving bugs since 2013.</h4>
+<h4 align="left">🍃 My name is Priyanka Maru and I'm a Software Developer from Canada.
+  <br>🍁 Developing applications and resolving bugs since 2013.</h4>
 
 ###
 
@@ -54,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaMaru28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyankaMaru28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
