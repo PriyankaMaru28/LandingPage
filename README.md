@@ -2,8 +2,8 @@
 
 ###
 
-<h4 align="left">🍃 My name is Priyanka Maru and I'm a Software Developer from Canada.
-  <br>🍁 Developing applications and resolving bugs since 2013.</h4>
+  <p align="left">🍃 My name is Priyanka Maru and I'm a Software Developer from Canada.
+  <br>🍁 Developing applications and resolving bugs since 2013.</p>
 
 ###
 
