@@ -1,8 +1,8 @@
-<h2 align="left">Hey 👋 What's up?</h2>
+<h2 align="left">Hey, What's up?</h2>
 
 ###
 
-  <p align="left">🍃 My name is Priyanka Maru and I'm a Software Developer from Canada.
+  <p align="left">🍃 My name is <b>Priyanka Maru</b> and I'm a <b>Software Developer</b> from Canada.
   <br>🍁 Developing applications and resolving bugs since 2013.</p>
 
 ###
@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
 
-
+<!--
 ###
 
 <div align="center">
@@ -62,6 +62,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyankaMaru28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 </div>
+-->
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PriyankaMaru28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 
 
