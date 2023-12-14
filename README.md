@@ -2,7 +2,7 @@
 
 ###
 
-  <p align="left">🍃 My name is <b>Priyanka Maru</b> and I'm a <b>Software Developer</b> from Canada.
+  <p align="left">🍃 My name is <b>Priyanka Maru</b> and I'm a <b>Software Developer</b> from Canada.🍃 
   <br>🍁 Developing applications and resolving bugs since 2013.🍁 </p>
 
 ###
