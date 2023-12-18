@@ -16,6 +16,10 @@
 ###
 
 <h2 align="left">Languages and Tools :</h2>
+<!--
+ ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+ -->
+
 
 ###
 
@@ -66,15 +70,15 @@
 
 # GitHub Stats
 
-###
+  ![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankaMaru28&theme=tokyonight&show_icons=true)
+
+# GitHub Streak
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=PriyankaMaru28&disable_animations=false)](https://git.io/streak-stats)
 
+# GitHub Trophies
 
-###
-
-
-
+![trophy](https://github-profile-trophy.vercel.app/?username=PriyankaMaru28)
 
 
 # Connect with me 
