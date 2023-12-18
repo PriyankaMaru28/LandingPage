@@ -68,7 +68,7 @@
 
 ###
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=PriyankaMaru28)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=PriyankaMaru28&disable_animations=false)](https://git.io/streak-stats)
 
 
 ###
