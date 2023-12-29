@@ -69,18 +69,15 @@
 -->
 <br />
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaMaru28&theme=tokyonight&show_icons=true" />
-  <img src="https://streak-stats.demolab.com/?user=PriyankaMaru28&disable_animations=false" />
-</div>
 
- <!--
+
+
   ![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankaMaru28&theme=tokyonight&show_icons=true)
 
 
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=PriyankaMaru28&disable_animations=false)](https://git.io/streak-stats)
-
+ <!--
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaMaru28&layout=pie)](https://github.com/PriyankaMaru28/github-readme-stats) 
 
 # GitHub Trophies
