@@ -7,8 +7,6 @@
   <br> 🖥️ Check out my Portfolio - <a href="https://priyankamaru28.github.io/" target="_blank">Link to Portfolio</a> 
   </p>
  
-
-
 ###
 
 <h2 align="left">About me</h2>
