@@ -3,8 +3,8 @@
 ###
 
   <p align="left">🍃 My name is <b>Priyanka Maru</b> and I'm a <b>Software Developer</b> from Canada.🍃 
-  <br>🍁 Developing applications and resolving bugs since 2013.🍁 
-  <br> 🖥️ Check out my Portfolio - <a href="https://priyankamaru28.github.io/" target="_blank">Link to Portfolio</a> 
+  <br>🍁 Developing applications and resolving bugs since 2013.🍁 <br>
+   🖥️  Check out my Portfolio - <a href="https://priyankamaru28.github.io/" target="_blank">Link to Portfolio</a> 
   </p>
  
 ###
