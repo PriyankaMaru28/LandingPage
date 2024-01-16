@@ -75,9 +75,10 @@
 
 
   ![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankaMaru28&theme=tokyonight&show_icons=true)
-  
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=PriyankaMaru28)](https://git.io/streak-stats)
+  # 📊 GitHub Stats:
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=PriyankaMaru28&theme=light&hide_border=false)<br/>
+  
  <!--
   [![GitHub Streak](https://streak-stats.demolab.com/?user=PriyankaMaru28&disable_animations=false)](https://git.io/streak-stats)
 
