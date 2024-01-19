@@ -22,7 +22,6 @@
  ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
  -->
 
-
 ###
 
 <div align="left">
@@ -70,9 +69,6 @@
 </div>
 -->
 <br />
-
-
-
 
   ![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyankaMaru28&theme=tokyonight&show_icons=true)
 
